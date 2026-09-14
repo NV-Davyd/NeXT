@@ -2,7 +2,9 @@
 
 <p align="center"><a href="https://github.com/NV-Davyd/NeXT/releases/latest/download/NeXT-1.0.0.zip"><strong>Download NeXT 1.0.0</strong></a> · <a href="https://carx-mod-access.carx-mod-access.workers.dev">Account</a></p>
 
-NeXT adds a tyre-life display, tyre refresh, waypoints, room tuning, and faster spectating to **CarX Drift Racing Online 2**.
+NeXT is a mod for **CarX Drift Racing Online 2**, focused on improving and expanding the game experience.
+
+The project is just getting started, with new features and improvements on the way.
 
 ## Install
 
