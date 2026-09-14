@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/next-wordmark.png" alt="NeXT" width="720"></p>
 
-<p align="center"><a href="https://github.com/NV-Davyd/NeXT/releases/latest/download/NeXT-1.0.1.zip"><strong>Download NeXT 1.0.1</strong></a> · <a href="https://next-mod.pages.dev">Account</a></p>
+<p align="center"><a href="https://github.com/NV-Davyd/NeXT/releases/latest/download/NeXT-1.1.0.zip"><strong>Download NeXT 1.1.0</strong></a> · <a href="https://next-mod.pages.dev">Account</a></p>
 
 NeXT is a mod for **CarX Drift Racing Online 2**, focused on improving and expanding the game experience.
 
