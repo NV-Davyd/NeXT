@@ -1,7 +1,7 @@
-# Only distribution documentation belongs in this repository.
+# Only the public release page and its assets belong here.
 *
 !.gitattributes
 !.gitignore
 !README.md
-!CHANGELOG.md
-!INSTALL-CarXTyres.txt
+!assets/
+!assets/next-wordmark.png
