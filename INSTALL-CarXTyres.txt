@@ -1,0 +1,44 @@
+CARX 2 MOD / CLIENT 1.7.1 / GAME BUILD 25255628
+
+The product name is undecided. The existing CarXTyres plugin identity and saved
+account-link location are preserved by this maintenance release.
+
+INSTALL ON ANOTHER WINDOWS PC
+1. Install/update CarX Drift Racing Online 2 through Steam, launch once, then exit.
+   This plugin requires game build 25255628 with the exact hashes below.
+2. Open the game's folder through Steam: Properties > Installed Files > Browse.
+3. If this folder already has BepInEx, copy only
+   BepInEx/plugins/CarXTyres/CarXTyres.dll into the corresponding location.
+   Keep the existing loader, configuration and other mods.
+4. For a fresh BepInEx installation, extract this archive beside the game EXE.
+   The included Unity base-library ZIP must remain zipped.
+5. Launch through Steam. First launch may take longer while bindings are generated.
+6. Press F10 to link the playing Steam account. Access requires owner approval:
+   https://carx-mod-access.carx-mod-access.workers.dev
+
+CONTROLS
+Apostrophe (') refreshes mounted tyres; F6 saves a waypoint; F7 returns to it.
+F8 opens the native dynostand while parked in a multiplayer room.
+F10 opens account linking. Faster spectating uses the normal game controls.
+The tyre-life display follows the game's native tyre-temperature widget.
+There are five functional features plus a team watermark; existing access grants
+remain compatible, including the legacy team_logo entitlement.
+
+For rollback, close the game and replace only CarXTyres.dll with the previous
+release. Do not delete BepInEx/config/CarXModAccess: it holds the local account link.
+To disable the mod, close the game and move its DLL out of BepInEx/plugins.
+
+HASHES (SHA-256)
+GameAssembly.dll: 9475DBEB0C10C58E1E0654D01DC5C47B80B2F737251B9EB6ED96F7F5D81A2DCF
+CarX Drift Racing Online 2_Data/Plugins/x86_64/NativeCarX.dll: 4CA2FECB94D65AA6518B5724B883D3CAE92F7C62CB5EFFE732AAA1D45814DB23
+CarXTyres.dll: 39EDFDCC624FD35044B10C86053B7185B3C841B948A9CF20606843D3C148F3AA
+
+If the game files do not match, the mod refuses to load. It needs an update for
+that build; preserve the compatibility checks.
+
+The package includes the original BepInEx 788 loader and matching Unity base
+libraries. It excludes game binaries, generated interop bindings, account data,
+credentials and screenshots. SHA256SUMS.txt covers every other archive file.
+BepInEx and its dependencies retain their upstream licenses.
+Loader source: https://github.com/BepInEx/BepInEx/tree/5b766a3b7f6c164d4798924a93f3acf4db769d06
+Loader guide: https://docs.bepinex.dev/master/articles/user_guide/installation/unity_il2cpp.html

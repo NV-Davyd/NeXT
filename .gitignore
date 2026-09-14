@@ -1,0 +1,7 @@
+# Only distribution documentation belongs in this repository.
+*
+!.gitattributes
+!.gitignore
+!README.md
+!CHANGELOG.md
+!INSTALL-CarXTyres.txt
