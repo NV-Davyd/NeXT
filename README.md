@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/next-wordmark.png" alt="NeXT" width="720"></p>
 
-<p align="center"><a href="https://github.com/NV-Davyd/NeXT/releases/latest/download/NeXT-1.4.1.zip"><strong>Download NeXT 1.4.1</strong></a> · <a href="https://next-mod.pages.dev">Account</a></p>
+<p align="center"><a href="https://github.com/NV-Davyd/NeXT/releases/latest/download/NeXT-1.4.0.zip"><strong>Download NeXT 1.4.0</strong></a> · <a href="https://next-mod.pages.dev">Account</a></p>
 
 NeXT is a mod for **CarX Drift Racing Online 2**, focused on improving and expanding the game experience.
 
@@ -23,7 +23,5 @@ The first launch can take a little longer. Access requires approval.
 Your available controls are on your [account page](https://next-mod.pages.dev).
 
 Change your keyboard shortcuts in **NeXT → Settings**, including the menu key. Click a key, then press its replacement. Escape cancels; **Reset defaults** restores the original keys. Your choices are saved on this PC.
-
-**Fresh tyres** works only below **5 km/h**, including reverse. At higher speeds, NeXT asks you to slow down.
 
 Windows · Steam build **25255628**
