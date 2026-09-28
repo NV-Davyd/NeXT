@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/NV-Davyd/NeXT/releases/latest"><img src="https://img.shields.io/github/v/release/NV-Davyd/NeXT?label=DOWNLOAD&style=for-the-badge" alt="Download"></a>
   <a href="https://github.com/NV-Davyd/NeXT/releases"><img src="https://img.shields.io/github/downloads/NV-Davyd/NeXT/total?label=DOWNLOADS&style=for-the-badge" alt="Downloads"></a>
-  <a href="https://discord.gg/99t8MGJMj"><img src="https://img.shields.io/badge/DISCORD-join-5865F2?style=for-the-badge" alt="Discord"></a>
+  <a href="https://discord.gg/Zrqg7GyrB4"><img src="https://img.shields.io/badge/DISCORD-join-5865F2?style=for-the-badge" alt="Discord"></a>
   <a href="https://next-mod.pages.dev"><img src="https://img.shields.io/badge/ACCOUNT-sign_in-111111?style=for-the-badge" alt="Account"></a>
 </p>
 
@@ -15,19 +15,19 @@ Press **F10** in game to open the NeXT menu.
 
 ## Features
 
-- **Driving HUD**: tyre temperature and wear, gear, speed, RPM, boost, pedals and drift angle. Every widget can be moved and resized.
+- **Driving HUD**: tyre temperature and wear, gear, speed, RPM, boost, pedals, drift angle and a drift bar. Every widget can be moved, resized or hidden.
 - **Player inspection**: hold **F12** near a player to see their tyre sizes, rear pressure, horsepower and weight.
 - **Fresh tyres**: press **'** below 20 km/h.
 - **Saved position**: **F6** to save, **F7** to return.
 - **Room dynostand**: **F8** while parked in a multiplayer room.
 - **Faster spectating**
 
-All keys can be changed in **NeXT → Settings**. Which features you can use depends on your account.
+Turn features on or off and change their keys in **NeXT → Features**; the menu key and menu size are in **Settings**. Which features you can use depends on your account.
 
 ## Installation
 
 1. Close CarX and exit Steam (**Steam → Exit**).
-2. Download and run the **Setup** from the [latest release](https://github.com/NV-Davyd/NeXT/releases/latest).
+2. Download and run [**NeXT-1.7.0-Setup.exe**](https://github.com/NV-Davyd/NeXT/releases/download/v1.7.0/NeXT-1.7.0-Setup.exe) from the [NeXT 1.7.0 release](https://github.com/NV-Davyd/NeXT/releases/tag/v1.7.0).
 3. Start CarX with Steam's **Play** button and press **F10** to sign in through Steam.
 
 Access requires approval. Updates are checked every time you press Play; choose **OK** to install.
@@ -35,4 +35,4 @@ Access requires approval. Updates are checked every time you press Play; choose 
 ## Help
 
 - After a CarX update, NeXT is disabled until a compatible release is out. You can keep playing without it in the meantime.
-- Report bugs and suggestions on [Discord](https://discord.gg/99t8MGJMj).
+- Report bugs and suggestions on [Discord](https://discord.gg/Zrqg7GyrB4).
