@@ -11,18 +11,18 @@
 
 NeXT is a mod for **CarX Drift Racing Online 2** that adds a driving HUD, player inspection and quality-of-life tools. The project is in active development.
 
-Press **F10** in game to open the NeXT menu.
+Press **F10** in game to open the NeXT menu (you can change this key in **Settings**).
 
 ## Features
 
 - **Driving HUD**: tyre temperature and wear, gear, speed, RPM, boost, pedals, drift angle and a drift bar. Every widget can be moved, resized or hidden.
-- **Player inspection**: hold **F12** near a player to see their tyre sizes, rear pressure, horsepower and weight.
-- **Fresh tyres**: press **'** below 20 km/h.
-- **Saved position**: **F6** to save, **F7** to return.
-- **Room dynostand**: **F8** while parked in a multiplayer room.
+- **Player inspection**: see a nearby player's tyre sizes, rear pressure, horsepower and weight.
+- **Fresh tyres**: swap to new tyres below 20 km/h.
+- **Saved position**: save a spot on the map and return to it.
+- **Room dynostand**: use the dyno while parked in a multiplayer room.
 - **Faster spectating**
 
-Turn features on or off and change their keys in **NeXT → Features**; the menu key and menu size are in **Settings**. Which features you can use depends on your account.
+Every feature has its own key. Turn features on or off and see or change their keys in **NeXT → Features**. The menu key and menu size are in **Settings**.
 
 ## Installation
 
