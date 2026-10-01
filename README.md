@@ -21,13 +21,14 @@ Press **F10** in game to open the NeXT menu (you can change this key in **Settin
 - **Saved position**: save a spot on the map and return to it.
 - **Room dynostand**: use the dyno while parked in a multiplayer room.
 - **Faster spectating**
+- **Change car**: while stopped, pick another car from your car park. In a room, NeXT rejoins the same room with it so other players see it. Not available during scored runs.
 
 Every feature has its own key. Turn features on or off and see or change their keys in **NeXT → Features**. The menu key and menu size are in **Settings**.
 
 ## Installation
 
 1. Close CarX and exit Steam (**Steam → Exit**).
-2. Download and run [**NeXT-1.7.1-Setup.exe**](https://github.com/NV-Davyd/NeXT/releases/download/v1.7.1/NeXT-1.7.1-Setup.exe) from the [NeXT 1.7.1 release](https://github.com/NV-Davyd/NeXT/releases/tag/v1.7.1).
+2. Download and run [**NeXT-1.8.0-Setup.exe**](https://github.com/NV-Davyd/NeXT/releases/download/v1.8.0/NeXT-1.8.0-Setup.exe) from the [NeXT 1.8.0 release](https://github.com/NV-Davyd/NeXT/releases/tag/v1.8.0).
 3. Start CarX with Steam's **Play** button and press **F10** to sign in through Steam.
 
 Access requires approval. Updates are checked every time you press Play; choose **OK** to install.
@@ -35,4 +36,5 @@ Access requires approval. Updates are checked every time you press Play; choose 
 ## Help
 
 - After a CarX update, NeXT is disabled until a compatible release is out. You can keep playing without it in the meantime.
+- If CarX crashes, the next **Play** asks whether to send the logs from that session. Nothing is sent unless you choose to.
 - Report bugs and suggestions on [Discord](https://discord.gg/Zrqg7GyrB4).
