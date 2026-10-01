@@ -7,6 +7,8 @@
   <a href="https://next-mod.pages.dev"><img src="https://img.shields.io/badge/ACCOUNT-sign_in-111111?style=for-the-badge" alt="Account"></a>
 </p>
 
+<p align="center">Account site not opening? Use <a href="https://next-mod.duckdns.org">next-mod.duckdns.org</a>.</p>
+
 ## About
 
 NeXT is a mod for **CarX Drift Racing Online 2** that adds a driving HUD, player inspection and quality-of-life tools. The project is in active development.
