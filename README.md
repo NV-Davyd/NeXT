@@ -17,12 +17,12 @@ Press **F10** in game to open the NeXT menu (you can change this key in **Settin
 
 ## Features
 
-- **HUD**: tyre temperature and wear, gear, speed, RPM, boost, pedals, drift angle and a drift bar. Move, resize or hide every widget, and hide the game's drift points and trick popups, track map, damage icons, tyre panel and tyre telemetry key. The track map can be moved and resized too.
+- **HUD**: tyre temperature and wear, gear, speed, RPM, boost, pedals and a drift gauge that shows your drift angle, front wheels and stick together, as an arch under the speedometer or a small car seen from above. Move, resize or hide every widget, and hide the game's drift points and trick popups, track map, damage icons, pedals and steering, tyre panel and tyre telemetry key. The track map and the game's speedometer, boost gauge and pedals can be moved and resized too.
 - **Player inspection**: see a nearby player's tyre sizes, rear pressure, horsepower and weight.
 - **Fresh tyres**: swap to new tyres below 20 km/h.
-- **Saved position**: save a spot on the map and return to it.
+- **Saved position**: save a spot on each map and return to it, even after leaving the map or the game. In a room, your car passes through other cars for a few seconds after you return.
 - **Room dynostand**: use the dyno while parked in a multiplayer room.
-- **QoL fixes**: faster spectating, faster loading when you join a busy room, faster leaving when you leave a room, faster screen switches with a much shorter freeze when you switch between driving and the room screen, and instant buy, which buys and installs a Workshop part as soon as you select it. Switch each one on or off in **NeXT → Features**. Instant buy starts off.
+- **QoL fixes**: faster spectating, faster loading when you join a busy room, faster leaving when you leave a room, faster screen switches with a much shorter freeze when you switch between driving and the room screen, instant buy, which buys and installs a Workshop part as soon as you select it, and handbrake lock, which keeps the handbrake on after you press it at a standstill until you press it again or drive off. Switch each one on or off in **NeXT → Features**. Instant buy and handbrake lock start off.
 - **Change car**: while stopped, pick another car from your car park. In a room, NeXT rejoins the same room with it so other players see it. Not available during scored runs.
 
 Every feature has its own key. Turn features on or off and see or change their keys in **NeXT → Features**. The menu key and menu size are in **Settings**.
