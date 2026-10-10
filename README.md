@@ -30,7 +30,7 @@ Every feature has its own key. Turn features on or off and see or change their k
 ## Installation
 
 1. Close CarX and exit Steam (**Steam → Exit**).
-2. Download and run [**NeXT-1.9.0-Setup.exe**](https://github.com/NV-Davyd/NeXT/releases/download/v1.9.0/NeXT-1.9.0-Setup.exe) from the [NeXT 1.9.0 release](https://github.com/NV-Davyd/NeXT/releases/tag/v1.9.0).
+2. Download and run [**NeXT-1.9.1-Setup.exe**](https://github.com/NV-Davyd/NeXT/releases/download/v1.9.1/NeXT-1.9.1-Setup.exe) from the [NeXT 1.9.1 release](https://github.com/NV-Davyd/NeXT/releases/tag/v1.9.1).
 3. Start CarX with Steam's **Play** button and press **F10** to sign in through Steam.
 
 Access requires approval. Updates are checked every time you press Play; choose **OK** to install.
