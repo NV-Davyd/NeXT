@@ -13,7 +13,7 @@
 
 NeXT is a mod for **CarX Drift Racing Online 2** that adds a driving HUD, player inspection and quality-of-life tools. The project is in active development.
 
-Press **F10** in game to open the NeXT menu (you can change this key in **Settings**).
+Press **F10** in game to open the NeXT menu (you can change this key in **Settings**). Drag the menu by its top bar to move it.
 
 ## Features
 
@@ -25,7 +25,7 @@ Press **F10** in game to open the NeXT menu (you can change this key in **Settin
 - **QoL fixes**: faster spectating, faster loading when you join a busy room, faster leaving when you leave a room, faster screen switches with a much shorter freeze when you switch between driving and the room screen, instant buy, which buys and installs a Workshop part as soon as you select it, and handbrake lock, which keeps the handbrake on after you press it at a standstill until you press it again or drive off. Switch each one on or off in **NeXT → Features**. Instant buy and handbrake lock start off.
 - **Change car**: while stopped, pick another car from your car park. In a room, NeXT rejoins the same room with it so other players see it. Not available during scored runs.
 
-Every feature has its own key. Turn features on or off and see or change their keys in **NeXT → Features**. The menu key and menu size are in **Settings**.
+Every feature has its own key. Turn features on or off and see or change their keys in **NeXT → Features**. The menu key, menu size and a button that centres the menu are in **Settings**.
 
 ## Installation
 
