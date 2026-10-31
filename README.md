@@ -17,7 +17,7 @@ Press **F10** in game to open the NeXT menu (you can change this key in **Settin
 
 ## Features
 
-- **HUD**: tyre temperature and wear, gear, speed, RPM, boost, pedals and a drift gauge that shows your drift angle, front wheels and stick together, as an arch under the speedometer or a small car seen from above. Move, resize or hide every widget, and hide the game's drift points and trick popups, track map, damage icons, pedals and steering, tyre panel and key hints. The track map and the game's speedometer, boost gauge and pedals can be moved and resized too. When you spectate, the HUD shows the car you're watching.
+- **HUD**: tyre temperature and wear, gear, speed, RPM, boost, pedals and a drift gauge that shows your drift angle, front wheels and stick together, as an arch under the speedometer or a small car seen from above. Move, resize or hide every widget, switch off the corner marks around the speedometer and tyres, and hide the game's drift points and trick popups, track map, damage icons, pedals and steering, tyre panel and key hints. The track map and the game's speedometer, boost gauge and pedals can be moved and resized too. When you spectate, the HUD shows the car you're watching.
 - **Player inspection**: see a nearby player's tyre sizes, rear pressure, horsepower and weight.
 - **Fresh tyres**: swap to new tyres below 20 km/h.
 - **Saved position**: save a spot on each map and return to it, even after leaving the map or the game. In a room, your car passes through other cars for a few seconds after you return.
@@ -28,7 +28,7 @@ Press **F10** in game to open the NeXT menu (you can change this key in **Settin
 - **Name and tag**: add a tag before or after your Steam name and colour both, with gradients or individual letter colours and saved looks. Your changes show after you next join a room.
 - **Livery colours**: change every sticker of one colour at once in the livery editor, keeping each sticker's transparency. Keep the result with the game's Apply action.
 - **NeXT players**: a mark beside the name and in the room list shows who runs NeXT. A red glow behind it means that player sees the other cars a frame behind.
-- **Custom maps**: drive DRO1 Blender maps in solo free ride or rooms. Add a map folder or drag a map onto the game, then choose your own map or follow the room's. Next spawn moves you between spawn points.
+- **Custom maps**: drive DRO1 Blender maps in solo free ride or rooms. Add a map folder or drag a map onto the game, then choose your own map or follow the room's. Next spawn moves you between spawn points. The page opens on your map list; folders, Convert all and Delete duplicates are on its Settings tab.
 - **Tyre sync**: other NeXT players' cars use their actual tyre wear and temperatures in your room, including while spectating.
 - **Fly mode**: move your car freely to set up a position. In a room, other players can't see your car or its map icon while you fly, and collisions with other cars stay off until you land. The key left of **1** starts and stops it; aim with the mouse, move with **WASD**, rise with **E** or **Space**, sink with **Q** or **Ctrl**, hold **Shift** to go faster and **Alt** to go slower.
 - **Graphics**: change time of day, sun, season, weather and picture settings, with up to five saved looks. Changes affect your own view; street lamps follow the session's time of day.
