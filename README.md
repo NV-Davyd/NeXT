@@ -49,3 +49,7 @@ Every approved player receives the public features above. Updates are checked ev
 - After a CarX update, NeXT is disabled until a compatible release is out. You can keep playing without it in the meantime.
 - If CarX crashes, the next **Play** asks whether to send the logs from that session. Nothing is sent unless you choose to.
 - Report bugs and suggestions on [Discord](https://discord.gg/Zrqg7GyrB4).
+
+## Licence
+
+NeXT is free to use, but its [licence](LICENSE) forbids decompiling, changing or sharing its files. To share NeXT, share a link to this page.
